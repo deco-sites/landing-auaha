@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/landing-auaha/": "./",
+
     "deco-sites/black-friday/": "./",
 
     "$store/": "./",
